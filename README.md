@@ -163,3 +163,9 @@ irrgarten-ruby/
 ├── player.rb
 ├── shield.rb
 └── weapon.rb
+
+## Academic context
+
+The project was developed from specifications, UML class diagrams and sequence diagrams provided throughout the course.
+
+My work consisted of translating those designs into a complete Java implementation, developing the game logic, applying inheritance and polymorphism, implementing generic components and integrating both text and graphical user interfaces.
