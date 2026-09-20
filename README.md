@@ -163,6 +163,7 @@ irrgarten-ruby/
 ├── player.rb
 ├── shield.rb
 └── weapon.rb
+````
 
 ## Academic context
 
